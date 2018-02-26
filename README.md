@@ -69,11 +69,11 @@ I'm going to try to detect the cars using convolutional neural network.
 
 
 [//]: # (Image References)
-[image1]: ./project_images/car_notcar.png
-[image2]: ./project_images/hog.png
-[image3]: ./examples/sliding_windows.jpg
-[image4]: ./project_images/test123_output.png
-[image5]: ./project_images/test456_output.png
+[image1]: ./images/car_notcar.png
+[image2]: ./images/hog.png
+[image3]: ./images/sliding_windows.jpg
+[image4]: ./images/test123_output.png
+[image5]: ./images/test456_output.png
 [video1]: ./project_output.mp4
 
 -----------
